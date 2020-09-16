@@ -1,0 +1,555 @@
+		 #user1234{
+			
+			height:78%;
+			width: 87%;
+			float: left;
+			padding-left: 0.5%;
+			padding-top: 0.5%;
+			padding-right: 0.5%;
+			margin-left: 0.5%;
+			background-color: #FFFACD;	
+			color: purple;
+		}	#complete1234
+		{
+			height: 90%;
+			width: 35%;
+			background-color: antiquewhite;
+			visibility: visible;
+			
+			float:left;
+			border-radius: 10px;
+		}
+			#attendance12{
+		height: 78%;
+		width: 87%;
+		float: left;
+		
+
+	}
+	#h312{
+		color:green;
+		font-style: italic;
+		font-weight: bolder;
+		font-size: 28px;
+
+
+	}
+	#table324{
+		margin-top: 20px;
+		float: center;
+		height: 86%;
+		overflow-y: scroll;
+	}
+		#proImage{
+			  height: 20%;
+			  width: 10%;
+			  float: right;
+			
+			
+			}
+			#profile{
+				max-width: 96%;
+				margin-top: 1%;
+				float: left;
+
+			}
+			#h3122{
+				color: purple;
+				font-family: arial;
+				font-style: italic;
+				font-weight: bolder;
+			}
+
+		#h1243{
+				color:black;
+			}
+			#username,#mobile,#email,#address{
+				visibility: hidden;
+			}
+			#merror,#eerror,#aerror{
+				color: red;
+			}
+			#update{
+				width: 200%;
+				margin-left: 1%;
+			}
+			#confirm{
+				width: 76%;
+				 visibility: hidden;
+			}
+			#last{
+				float: right;
+			}
+	#loginimage
+		{
+			float:left;
+		}
+
+		#warning2{
+		font-weight: bolder;
+		font-size: 20px;
+		background-color: #f0ad4e;
+		color: white;
+		float: right;
+		padding: 3px;
+		border-radius: 5px;
+		margin-left: 10px;
+	
+	}
+	#sendMessage{
+		height: 600px;
+		float: left;
+	}
+	
+	#success2{
+		font-weight: bolder;
+		font-size: 20px;
+		background-color: #5cb85c;
+		color: white;
+		padding: 3px;
+		border-radius: 5px;
+		float: right;
+		margin-left: 10px;
+	}
+	#attendance
+	{
+		overflow: scroll;
+	}
+			#profile{
+			margin:0 auto;
+			height:78%;
+			width: 88%;
+			float: left;
+			background-color: #FFFACD;
+			padding-left: 2%;
+			align-content: center;
+		}
+		#profileImage{
+			height: 30%;
+			width: 15%;
+			margin-top: 15px;
+			 margin-left: 105px;
+			 border-radius: 10%;
+		}
+		#profileCheck{
+			float: left;
+		}
+		#upload
+		{
+			width: 40%;
+		}
+
+#login{
+			height:78%;
+			width:87%;
+			float: left;
+						
+			margin-left: 0.5%;
+
+			background-color: #FFFACD;
+		}
+		#password,#newPass{
+			width: 50%;
+			margin: 0 auto;
+		}
+
+		#inputItems{
+		width: 34%;
+		margin-left: 32.7%;
+		margin-top: 2%;
+	}
+		#progressBar{
+			width: 50%;
+		}
+		
+		#h1{
+			color:#50394c ;
+			font-family: consolas;
+			font-weight: 80%;
+		}
+		#admin{
+			color:#50394c ;
+			margin:0 auto;
+			font-family: consolas;
+			font-weight:bolder;
+			
+		}
+		#input{
+			margin: 0 auto;
+		}
+		#login .h2{
+			color:red;
+		}
+		#red
+		{
+			height: 5px;
+			width: 80px;
+			background-color: white;
+		}
+		#green
+		{
+			height: 5px;
+			width: 80px;
+			background-color: green;
+		}
+		#image
+		{
+			height: 20px;
+			width: 20px;
+			visibility: hidden;
+			border-radius: 5px;
+
+		}
+		#newPassword
+		{
+			font-weight: bold;
+
+		}
+		#box{
+		height: 78%;
+		width: 87%;
+		margin-left: 0.5%;
+		background-color: #FFFACD;
+		float: left;
+	}
+	#title
+	{
+		font-size: 32px;
+		font-weight: bold;
+		font-style: italic;
+		color: 	#4B0082;
+
+	}
+	
+	
+	#danger{
+		font-weight: bolder;
+		font-size: 20px;
+		background-color: #d9534f;
+		color: white;
+		padding: 3px;
+		border-radius: 5px;
+	}
+	#warning{
+		font-weight: bolder;
+		font-size: 20px;
+		background-color: #f0ad4e;
+		color: white;
+
+		padding: 3px;
+		border-radius: 5px;
+	}
+	#success{
+		font-weight: bolder;
+		font-size: 20px;
+		background-color: #5cb85c;
+		color: white;
+		padding: 3px;
+		border-radius: 5px;
+	}
+		
+		#h1{
+			color:#50394c ;
+			font-family: consolas;
+			font-weight: 80%;
+		}
+		#admin6{
+			color:#50394c ;
+			margin:0 auto;
+			font-family: consolas;
+			font-weight:bolder;
+			
+		}
+		#input1{
+			margin: 0 auto;
+		}
+		#login .h2{
+			color:red;
+		}		
+
+		#form{
+			background-color:antiquewhite;
+			float: left;
+			height: 78%;
+			width: 87%;
+			margin-left: 0.5%;
+		}
+
+				#btnsubmit{
+			width:34.5%;
+			margin-left: 32.7%;
+				
+		}	
+
+				#showMessages{
+					overflow-y: scroll;
+					width:50%;
+					float: left;
+					margin-left: 0.5%;
+				}
+				#message{
+		      color: mediumseagreen;
+		     	width: 150%;
+		      margin-left: 5.5%;
+		      padding-left: 1%;
+		      font-size: 18px;
+		      
+		    }
+		    #mssg{
+		      margin-top: 10px;
+		    }
+		#label31{
+			color: red;
+			margin-left: 32.7%;
+			
+		}
+		#label32{
+			color: red;
+			margin-left: 0.7%;
+			
+		}
+	#label312{
+			color: red;
+			margin-left: 32.7%;
+			margin-bottom: 2%;
+			
+		}
+		
+		#h1{
+			color:#50394c ;
+			font-family: consolas;
+			font-weight: 80%;
+			float: center;
+		}
+		#label2{
+			color:#50394c ;
+			margin:0 auto;
+			margin-left: 15px;
+			font-family: consolas;
+			font-weight:bolder;
+			
+		}
+		#password2{
+width: 35%;
+		margin: 0 auto;
+		margin-top: 2%;
+	}
+		#input3{
+			margin-left: 20px;	
+		}
+		h3{
+			color: red;
+		
+			font-family: arial;
+		
+			
+		}
+		label{
+			font-size: 15px;
+
+		}
+		
+			#box12
+	{
+		height: 78%;
+		width: 87%;
+		background-color: #FFFBCD;
+		padding-left: 20px;
+		float: left;
+	}
+	#title13{
+		font-size: 20px;
+		font-weight: bold;
+	}
+	#label12{
+		width: 200px;
+		margin-top: 10px;
+	}
+	#label22{
+		width: 200px;
+		margin-top: 10px;
+	}
+	#but4{
+		width: 200px;
+		margin-top: 30px;
+	}
+	#message{
+      color: mediumseagreen;
+     
+      border-radius: 0px;
+      padding-left: 20px;
+      float: left;
+      
+    }
+    #content{
+    	margin-left: 0px; 
+    	margin-top: 0px; 
+    	max-width: 100%;
+    	font-size: 22px;
+    	
+    }
+    #mssg{
+      margin-top: 10px;
+    }
+    #user12{
+			
+			height:640px;
+			width: 1040px;
+			float: left;
+			padding-left: 10px;
+			padding-top: 10px;	
+			background-image: url("<?php echo base_url('assests/image/orangeWallpaper.JPG') ?>"); 
+			color: white;
+		}
+		#complete12
+		{
+			height: 350px;
+			width: 400px;
+			background-color: #fefbd8;
+			margin-left: 50px;
+			margin-bottom: 10px;
+			margin-right: 10px;
+			float: right;
+			border-radius: 10px;
+			align-content: center;
+
+			
+		}
+		#tablets{
+		float: right;	
+	}
+		#h412{
+			font-size: 20px;
+			font-weight: bolder;
+		}
+			#message6{
+      color: mediumseagreen;
+      height: 78%;
+      border-radius: 0px;
+      padding-left: 20px;
+      height: 200px;
+      width: 40%;
+      float: left;
+      
+    }
+     #mssg6{
+      margin-top: 10px;
+    }
+    		
+		#contain
+ 	{
+ 		width: 100%;
+ 		max-height: 95%
+ 		
+ 	}
+		#create{
+			
+			margin-left: 0.5%;
+			width:99%;
+			height: 80%;
+			float: left;	
+			color: black;
+			overflow-y: scroll;
+			background-color: #fefbd8;
+		}
+	#details324{
+			height: 700px;
+			width: 1400px;
+			margin:0 auto;
+
+		}
+		#form16{
+			background-color: white;
+			float: left;
+			margin-top: 130px;
+			height: 455px;
+			width: 462px;
+		}
+		#loginimage65
+		{
+			float:left;
+			margin-top: 130px;
+			margin-left: 250px;
+
+
+		}
+		#login2223{
+			background-color: #a2b7c2;
+		}
+		#h1345{
+				color: white;
+			font-size: 33px;
+			font-style: italic;
+			margin-left: 39.7%;
+			padding-top: 3%;
+		}
+		#h1{
+			color:#50394c ;
+			font-family: consolas;
+			font-weight: 80%;
+			float: center;
+		}
+		#label{
+			color:#50394c ;
+			margin:0 auto;
+			margin-left: 15px;
+			font-family: consolas;
+			font-weight:bolder;
+			
+		}
+		#input43{
+			margin:0 auto;	
+			width: 500px;
+			height: 36px;
+		}
+		#input44{
+			margin:0 auto;	
+			width: 500px;
+			height: 36px;
+		}
+		#input45{
+			margin:0 auto;	
+			width: 500px;
+			height: 36px;
+		}
+		#input46{
+			margin:0 auto;	
+			width: 500px;
+			height: 36px;
+		}
+		#input47{
+			margin:0 auto;	
+			width: 500px;
+			height: 36px;
+		}
+		#input48{
+			margin:0 auto;	
+			width: 500px;
+			height: 36px;
+		}
+		#input49{
+			margin:0 auto;	
+			width: 500px;
+			height: 36px;
+		}
+		#input42{
+			margin:0 auto;	
+			width: 500px;
+			height: 36px;
+		}
+		#text{
+			color: red;
+		
+			font-family: consolas;
+			font-weight: lighter;
+			
+		}
+		label{
+			font-size: 15px;
+
+		}
+		#registerBtn{
+			width: 30%;
+			font-size: 20px;
+		}
+		

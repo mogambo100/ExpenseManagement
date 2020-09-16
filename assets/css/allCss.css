@@ -1,0 +1,531 @@
+		
+	
+		  #admin{
+		
+      padding-left: 10px;
+      margin-left: 10px;  
+      width: 1180px;
+      height: 800px;
+      background-color: #f5f5fa;
+      float: left;
+      overflow: scroll;
+    }
+    #newLink{
+    	color: blue;
+    	
+    }
+    #table78{
+    	color: black;
+    	font-family: arial;
+    	font-size: 20px;
+    }
+		#h13{
+			
+			font-family: consolas;
+			color: purple;
+			font-weight: 32px;
+			font-style: italic;
+		}
+		#admin4{
+			color:#50394c ;
+			margin:0 auto;
+			font-family: consolas;
+			font-weight:bolder;
+			
+		}
+		#label31{
+			color: red;
+			margin-left: 31.7%;
+			
+		}
+		#input2{
+			margin: 0 auto;
+		}
+		#login .h2{
+			color:red;
+		}
+		#inputItems{
+			width: 500px;
+			margin: 0 auto;
+		}
+	
+   #userDetails{
+      width: 250px;
+      height: 370px;
+      margin: 0 auto;
+      background-color: #eca1a6;
+      align-items: center;
+    }
+    #h1{
+      font-family: arial;
+      font-size: 32px;
+      align-content: center;
+      font-weight: lighter;
+      font-style: italic;
+    }
+    table{
+      font-size: 14px;
+
+    }
+		
+		#userChange
+		{
+			height: 100px;
+			width: 600px;
+			background-color: grey;
+			padding-left: 10px;
+		}
+
+		#user
+		{
+			color: black;
+			font-size: 20px;
+			background-color: lightgrey;
+
+		}
+		#danger{
+		font-weight: bolder;
+		font-size: 20px;
+		background-color: #d9534f;
+		color: white;
+		padding: 3px;
+		border-radius: 5px;
+	}
+	#warning{
+		font-weight: bolder;
+		font-size: 20px;
+		background-color: #f0ad4e;
+		color: white;
+
+		padding: 3px;
+		border-radius: 5px;
+	}
+	#sendMessage{
+		height: 600px;
+		width: 300px;
+		float: left;
+	}
+	#success{
+		font-weight: bolder;
+		font-size: 20px;
+		background-color: #5cb85c;
+		color: white;
+		padding: 3px;
+		border-radius: 5px;
+	}
+
+	#title
+	{
+		font-size: 32px;
+		font-weight: bold;
+		font-style: italic;
+		color: 	#4B0082;
+
+	}
+	
+	#label
+	{
+		margin-top: 30px;
+	}
+	#create{
+			height:82%;
+			width:97%;
+					
+			color: white;
+			background-color: #fefbd8;
+		}
+		#h1{
+			color:#50394c ;
+			font-family: consolas;
+			font-weight: 80%;
+			float: center;
+		}
+		#label2{
+			color:#50394c ;
+			margin:0 auto;
+			margin-left: 15px;
+			font-family: consolas;
+			font-weight:bolder;
+			
+		}
+		#input{
+			margin-left: 20px;	
+		}
+		#h3{
+			color: red;
+		
+			font-family: consolas;
+			font-weight: bolder;
+			
+		}
+		label{
+			font-size: 15px;
+
+		}
+		#contain
+ 	{
+ 		width: 100%;
+ 		
+ 	}
+ 	#permissions{
+			height: 97%;
+			width: 84%;
+			margin-left: 0.5%;
+			overflow-y: scroll;
+			float: left;
+			background-color: #FFFACD;
+		}
+
+		table{
+			font-size: 16px;
+		}
+		#userChange
+		{
+			height: 100px;
+			width: 600px;
+			background-color: grey;
+		}
+
+		#user
+		{
+			color: black;
+			font-size: 20px;
+			background-color: lightgrey;
+
+		}
+		#danger{
+		font-weight: bolder;
+		font-size: 20px;
+		background-color: #d9534f;
+		color: white;
+		padding: 3px;
+		border-radius: 5px;
+	}
+	#warning{
+		font-weight: bolder;
+		font-size: 20px;
+		background-color: #f0ad4e;
+		color: white;
+
+		padding: 3px;
+		border-radius: 5px;
+	}
+	#success{
+		font-weight: bolder;
+		font-size: 20px;
+		background-color: #5cb85c;
+		color: white;
+		padding: 3px;
+		border-radius: 5px;
+	}
+	#message{
+		float: left;
+		width: 1100px;
+		height: 800px;
+		margin-left: 10px;
+		padding-left: 10px;
+		
+
+
+
+	}
+		#warning2{
+		font-weight: bolder;
+		font-size: 20px;
+		background-color: #f0ad4e;
+		color: white;
+		float: right;
+		padding: 3px;
+		border-radius: 5px;
+		margin-left: 10px;
+	}
+	#success2{
+		font-weight: bolder;
+		font-size: 20px;
+		background-color: #5cb85c;
+		color: white;
+		padding: 3px;
+		border-radius: 5px;
+		float: right;
+		margin-left: 10px;
+	}
+	#showMessageAdmins
+	{
+		max-height: 96%;
+		overflow-y: scroll;
+		width:46%;
+		float: left; 
+		margin-left: 10px;
+	}
+	#message2{
+		      color: mediumseagreen;
+		     width: 500px;
+		      border-radius: 0px;
+		      padding-left: 20px;
+		      
+		    }
+		    #mssg{
+		      margin-top: 10px;
+		    }
+		    #login{
+			background-color: #a2b7c2;
+		}
+		#h1{
+			color:#50394c ;
+			font-family: consolas;
+			font-weight: 80%;
+		}
+		#admin{
+			color:#50394c ;
+			margin:0 auto;
+			font-family: consolas;
+			font-weight:bolder;
+			
+		}
+		#input{
+			margin: 0 auto;
+		}
+		#login .h2{
+			color:red;
+		}		
+		#details{
+			height: 700px;
+			width: 1400px;
+			margin:0 auto;
+
+		}
+		#form{
+			background-color:antiquewhite;
+			float: left;
+			height: 800px;
+			width: 82%;
+			margin-left: 10px;
+		}
+			#login2{
+			background-color: #a2b7c2;
+		}
+				
+		#details3{
+			height: 700px;
+			width: 1350px;
+			max-width: 100%;
+			margin: 0 auto;
+		
+			
+
+		}
+			#loginimage
+		{
+			float:left;
+			margin-left: 300px;
+			margin-top: 100px;
+		}
+
+		#form5{
+			margin-top: 100px;
+			background-color: white;
+			float: left;
+			height: 455px;
+			width: 462px;
+		}
+	
+		#btnsubmit{
+			width:36.5%;
+			margin-left: 31.7%;
+				
+		}
+		#perTable{
+			overflow-y: scroll;
+		}
+		table{
+			font-size: 14px;
+		}
+		#userChange
+		{
+			height: 100px;
+			width: 600px;
+			background-color: grey;
+		}
+		#user
+		{
+			color: black;
+			font-size: 20px;
+			background-color: lightgrey;
+
+		}	#message3{
+      color: mediumseagreen;
+      height: 350px;
+      border-radius: 0px;
+      padding-left: 20px;
+      height: 200px;
+      width: 700px;
+      float: left;
+      
+    }
+    #mssg{
+      margin-top: 10px;
+    }
+    #wrapper
+    {
+    display: block;
+    }
+  #box2{
+		height: 97%;;
+		width:84%;
+		display: block;
+
+	
+		background-color: #FFFACD;
+		float: left;
+		padding-left: 0.5%;
+		margin-left: 0.5%;
+	}
+	#title
+	{
+		font-size: 32px;
+		font-weight: bold;
+		font-style: italic;
+		color: 	#4B0082;
+
+	}
+	#table3{
+		margin-top: 20px;
+		float: center;
+		font-size: 14px;s
+	}
+		
+#table{
+		width: 500px;
+		background-color: lightyellow;
+		color: #fefbd8;
+		float: left;
+		margin-left: 10px;
+		padding-left: 10px;
+		font-size: 14px;
+
+	}
+	#login2{
+			background-color: #a2b7c2;
+		}
+				
+		#details3{
+			height: 700px;
+			width: 1350px;
+			max-width: 100%;
+			margin: 0 auto;
+		
+			
+
+		}
+			#loginimage
+		{
+			float:left;
+			margin-left: 300px;
+			margin-top: 100px;
+		}
+
+		#form5{
+			margin-top: 100px;
+			background-color: white;
+			float: left;
+			height: 455px;
+			width: 462px;
+		}
+		#h1345{
+			color: white;
+			font-size: 33px;
+			font-style: italic;
+			margin-left: 39.7%;
+			padding-top: 3%;	
+		}
+
+			#box{
+		background-color: #FFFACD;
+		width: 84%;
+		margin-left: 0.5%;
+		float: left;
+		font-size: 30px;
+		color: purple;
+		height: 97%;
+		overflow-y:scroll;
+	}
+	#contain
+ 	{
+ 		width: 100%;
+ 		
+ 	}
+		#create{
+			
+			margin-left: 0.5%;
+			width:84%;
+			height: 97%;
+			float: left;	
+			color: black;
+			overflow-y: scroll;
+			background-color: #fefbd8;
+		}
+		#h1{
+			color:#50394c ;
+			font-family: consolas;
+			font-weight: 80%;
+			float: center;
+		}
+		#label{
+			color:#50394c ;
+			margin:0 auto;
+			margin-left: 15px;
+			font-family: consolas;
+			font-weight:bolder;
+			
+		}
+		#input43{
+			margin:0 auto;	
+			width: 500px;
+			height: 36px;
+		}
+		#input44{
+			margin:0 auto;	
+			width: 500px;
+			height: 36px;
+		}
+		#input45{
+			margin:0 auto;	
+			width: 500px;
+			height: 36px;
+		}
+		#input46{
+			margin:0 auto;	
+			width: 500px;
+			height: 36px;
+		}
+		#input47{
+			margin:0 auto;	
+			width: 500px;
+			height: 36px;
+		}
+		#input48{
+			margin:0 auto;	
+			width: 500px;
+			height: 36px;
+		}
+		#input49{
+			margin:0 auto;	
+			width: 500px;
+			height: 36px;
+		}
+		#input42{
+			margin:0 auto;	
+			width: 500px;
+			height: 36px;
+		}
+		#text{
+			color: red;
+		
+			font-family: consolas;
+			font-weight: lighter;
+			
+		}
+		label{
+			font-size: 15px;
+
+		}
